@@ -1,4 +1,2 @@
 # Diploma
-Diploma at FRI, University of Ljubljana
-
-Programs will be added shortly.
+Diploma thesis at FRI, University of Ljubljana
